@@ -1,11 +1,18 @@
 # Vue.JS
 It's my first project using VueJs it was an aweome experience,
 
-## instruction 
-clone the project to your machine and open index.html
+# How to successfully run the application.
+
+after cloning the project by using `"git clone https://github.com/mahmedtony73/vuejsdemo.git"` or downloading it.
 
 This Tutorials helped me alot but it was an Awesome Experience
-### [https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance](Tutorials)
+### [Tutorials](https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance)
+
+## you can review the project : )
+
+[Click here](https://mahmedtony73.github.io/vuejsdemo/)
+
+![project preview](https://github.com/mahmedtony73/vuejsdemo/blob/gh-pages/images//preview-image.png "project preview")
 
 **MohammedDawood**
 
