@@ -12,7 +12,7 @@ This Tutorials helped me alot but it was an Awesome Experience
 
 [Click here](https://mahmedtony73.github.io/vuejsdemo/)
 
-![project preview](https://github.com/mahmedtony73/feedreader/blob/master/images//preview-image.PNG "project preview")
+![project preview](https://github.com/mahmedtony73/vuejsdemo/blob/gh-pages/images//preview-image.png "project preview")
 
 **MohammedDawood**
 
