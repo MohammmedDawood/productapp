@@ -57,14 +57,14 @@ data() {
             {
                 variantId: 2234,
                 variantColor: 'green',
-                variantImage: 'vmSocks-green-onWhite.jpg',
+                variantImage: 'images/vmSocks-green-onWhite.jpg',
                 variantQuantity:10
             },
             {
                 variantId: 2235,
                 variantColor: 'blue',
-                variantImage: 'vmSocks-blue-onWhite.jpg',
-                variantQuantity:0
+                variantImage: 'images/vmSocks-blue-onWhite.jpg',
+                variantQuantity:20
             }
         ],
         reviews: []
