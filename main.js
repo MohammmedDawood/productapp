@@ -21,9 +21,7 @@ Vue.component('product',{
         <h1>{{ title }}</h1>
         <p v-if="inStock">In stock</p>
         <p v-else>Out of stock</p>
-        <p>Shipping :{{ 
-            
-         }}</p>
+        <p>Shipping :{{ shipping }}</p>
 
         <ul>
             <li v-for='detail in details'>{{ detail }}</li>
@@ -96,13 +94,14 @@ computed: {
         }else{
             return 2.99
         }
-    },
-    mounted() {
-        eventBus.$on('review-submitted' , productReview => {
-            this.reviews.push(productReview)
-        })
     }
+},
+mounted() {
+    eventBus.$on('review-submitted' , productReview => {
+        this.reviews.push(productReview)
+    })
 }
+
 })
 
 //review component
